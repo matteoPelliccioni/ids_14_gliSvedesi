@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_F0ZUIF3gEeSGE-rnFAAiXA" type="UseCase" name="NewDiagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_AyJa4F3jEeSGE-rnFAAiXA" type="2013">
+    <children xmi:type="notation:DecorationNode" xmi:id="_AyJa4l3jEeSGE-rnFAAiXA" type="5016"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_AyJa413jEeSGE-rnFAAiXA" type="7009">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_AyJa5F3jEeSGE-rnFAAiXA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_AyJa5V3jEeSGE-rnFAAiXA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AyJa5l3jEeSGE-rnFAAiXA"/>
+    </children>
+    <element xmi:type="uml:UseCase" href="modelA.uml#_Ax2f8F3jEeSGE-rnFAAiXA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AyJa4V3jEeSGE-rnFAAiXA" x="333" y="106"/>
+  </children>
   <styles xmi:type="notation:StringValueStyle" xmi:id="_F0ZUIV3gEeSGE-rnFAAiXA" name="diagram_compatibility_version" stringValue="1.0.0"/>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_F0ZUIl3gEeSGE-rnFAAiXA"/>
   <styles xmi:type="style:PapyrusViewStyle" xmi:id="_F0ZUI13gEeSGE-rnFAAiXA">
